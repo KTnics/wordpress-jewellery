@@ -1,0 +1,8 @@
+.oxi-addons-container .oxi-image-button-hover-style-1 .oxi-image-hover-figure-caption {
+    opacity: 0;
+}
+.oxi-addons-container .oxi-image-button-hover-style-1.oxi-image-hover:hover .oxi-image-hover-figure-caption,
+.oxi-addons-container .oxi-image-button-hover-style-1.oxi-image-hover.oxi-touch .oxi-image-hover-figure-caption{
+    opacity: 1;
+}
+/*This file was exported by "Export WP Page to Static HTML" plugin which created by ReCorp (https://myrecorp.com) */
